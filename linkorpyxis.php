@@ -13,7 +13,7 @@ function remove_admin_menus () {
     global $menu; 
     $removed = array( 
         __('LMS'), 
-		__('WPLMS'),
+	__('WPLMS'),
         __('Font Awesome') 
 	); 
     end ($menu); 
